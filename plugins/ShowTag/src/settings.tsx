@@ -15,7 +15,6 @@ export default function PastelizeSettings() {
   const IconPersonStatus = (
     <TableRowIcon
       source={getAssetIDByName("ic_person_status")}
-      variant="blurple"
     />
   );
 
