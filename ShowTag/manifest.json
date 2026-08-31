@@ -1,0 +1,1 @@
+{"name":"Show Tag","description":"Shows discriminator (or full Discord tag if nickname) in the message header.","authors":[{"name":"Cynosphere","id":"150745989836308480"}],"main":"index.js","vendetta":{"icon":"img_nitro_server_avatar"},"hash":"3f4633874f684dd4166f65d0befdfa45bedd0b81d0913c4999578d2359a8c63e"}
