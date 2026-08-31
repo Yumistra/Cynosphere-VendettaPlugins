@@ -16,7 +16,7 @@ jobs:
               with:
                   node-version: "22"
 
-            - run: npm install --global pnpm
+            - run: npm install --global pnpm@9
 
             - name: Install deps
               run: pnpm m i
